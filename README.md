@@ -4,6 +4,7 @@
 
 ### Web Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luthfisauqi17&repo=Electrodeal)](https://github.com/luthfisauqi17/Electrodeal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luthfisauqi17&repo=news_portal)](https://github.com/luthfisauqi17/news_portal)
 
 ### Mobile Projects
 
