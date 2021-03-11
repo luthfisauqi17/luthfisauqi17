@@ -3,6 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthfisauqi17&layout=compact&theme=default)
 
 ### Web Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luthfisauqi17&repo=Electrodeal)](https://github.com/luthfisauqi17/Electrodeal)
 
 ### Mobile Projects
 
