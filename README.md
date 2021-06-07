@@ -16,10 +16,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luthfisauqi17&repo=WareIT)](https://github.com/luthfisauqi17/WareIT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luthfisauqi17&repo=MoneyRec)](https://github.com/luthfisauqi17/MoneyRec)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luthfisauqi17&repo=SNAKE-2D)](https://github.com/luthfisauqi17/SNAKE-2D)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luthfisauqi17&repo=3DCGA-PA15)](https://github.com/luthfisauqi17/3DCGA-PA15)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luthfisauqi17&repo=3DCGA-PA4)](https://github.com/luthfisauqi17/3DCGA-PA4)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luthfisauqi17&repo=CGA-PA14)](https://github.com/luthfisauqi17/CGA-PA14)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luthfisauqi17&repo=CGA-PA2)](https://github.com/luthfisauqi17/CGA-PA2)
 
 ### My Mobile Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luthfisauqi17&repo=Storee)](https://github.com/luthfisauqi17/Storee)
